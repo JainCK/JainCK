@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jain C Kuriakose</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zippyzag88" alt="zippyzag88" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JainCk" alt="JainCk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jain_kuriakose" target="blank"><img src="https://img.shields.io/twitter/follow/jain_kuriakose?logo=twitter&style=for-the-badge" alt="jain_kuriakose" /></a> </p>
 
